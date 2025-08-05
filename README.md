@@ -6,7 +6,7 @@ Este é um conversor de moedas simples, desenvolvido em Java, para ser executado
 
 ##  Tecnologias Utilizadas
 
-* **Java 21+**
+* **Java 24**
 * **Maven** para gerenciar as dependências do projeto.
 * **Gson** : biblioteca para facilitar o processamento de respostas JSON vindas da API.
 * **API ExchangeRate-API**: serviço de terceiros para obter taxas de câmbio atualizadas.
